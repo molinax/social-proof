@@ -152,7 +152,7 @@ main {
         display: flex;
         justify-content: center;
         align-items: center;
-        min-height: 50rem;
+        min-height: 58rem;
     }
     
     /* Product Review */
@@ -179,6 +179,12 @@ main {
         font-size: 18px;
     }
 
+    /* Product Description */
+    .product-description_title {
+        font-size: 3em;
+    }
+    
+    
     .section-bottom {
         font-size: 17px;
     }
